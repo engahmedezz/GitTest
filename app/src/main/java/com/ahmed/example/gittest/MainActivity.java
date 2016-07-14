@@ -22,5 +22,12 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+public void ahmed()
+{
 
+}
+    public void kok()
+    {
+
+    }
 }
